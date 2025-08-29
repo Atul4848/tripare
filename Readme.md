@@ -26,7 +26,7 @@ The app features infinite scrolling, a search bar, and a detailed view for each 
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/tripare.git
+git clone https://github.com/Atul4848/tripare.git
 cd tripare
 ```
 
